@@ -4,6 +4,6 @@
 
 ####  2. Make sure to appropriate the correct file paths inside gulpfile.js
 
-####  3. Type '-gulp watch' into the command line to start localhost.
+####  3. Type 'gulp watch' into the command line to start localhost. ("ctrl + c" inside the terminal to exit)
 
 ######  Files based on https://www.youtube.com/watch?v=QgMQeLymAdU
